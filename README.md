@@ -9,3 +9,8 @@ A Natural Language Processing (NLP), Machine Learning and Data Mining project, w
 How to use: 
 1. run pyGen first to generate your naive bayes classifier models. Alternatively, you can use any other text classification models.  
 2. run pyPredict(use your own Twitter keys) and enter the username you want to predict.  
+
+## Types of Personalities :
+
+![Types](https://user-images.githubusercontent.com/33621094/74926796-4ddb5200-538b-11ea-944a-78ad55c3395f.png)
+![type2](https://user-images.githubusercontent.com/33621094/74926798-4e73e880-538b-11ea-8c25-477fe1251d15.png)
