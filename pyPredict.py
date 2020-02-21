@@ -125,7 +125,7 @@ getTweets(username)
 with open('user.csv','rt') as f:
 	csvReader=csv.reader(f)
 	tweetList=[rows[0] for rows in csvReader]
-os.remove('user.csv')
+#os.remove('user.csv')
 with open('newfrequency300.csv','rt') as f:
 	csvReader=csv.reader(f)
 	mydict={rows[1]: int(rows[0]) for rows in csvReader}
@@ -135,10 +135,10 @@ x=vectorizer.fit_transform(tweetList).toarray()
 df=pd.DataFrame(x)
 
 
-model_IE = pickle.load(open("BNIEFinal.sav", 'rb'))
-model_SN = pickle.load(open("BNSNFinal.sav", 'rb'))
-model_TF = pickle.load(open('BNTFFinal.sav', 'rb'))
-model_PJ = pickle.load(open('BNPJFinal.sav', 'rb'))
+model_IE = pickle.load(open("BNIEFinal.txt", 'rb'))
+model_SN = pickle.load(open("BNSNFinal.txt", 'rb'))
+model_TF = pickle.load(open('BNTFFinal.txt', 'rb'))
+model_PJ = pickle.load(open('BNPJFinal.txt', 'rb'))
 
 answer=[]
 IE=model_IE.predict(df)
