@@ -1,4 +1,4 @@
-# Twitter-Personalities
+# :rocket: Twitter-Personalities
 
 A Natural Language Processing (NLP), Machine Learning and Data Mining project, which will automate the screening process before hiring a professional or can be used in psychiatry to check effectivity of patient therapy.  
 ● Use the Twitter REST API to mine tweets for personality identification.  
@@ -13,4 +13,3 @@ How to use:
 ## Types of Personalities :
 
 ![Types](https://user-images.githubusercontent.com/33621094/74926796-4ddb5200-538b-11ea-944a-78ad55c3395f.png)
-![type2](https://user-images.githubusercontent.com/33621094/74926798-4e73e880-538b-11ea-8c25-477fe1251d15.png)
