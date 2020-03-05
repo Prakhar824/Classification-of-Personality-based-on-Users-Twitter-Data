@@ -11,12 +11,13 @@ A Natural Language Processing (NLP), Machine Learning and Data Mining project, w
 
 1. First step is to run the requirement.txt file to install all the libraries and dependencies.
 
-1. run pyGen first to generate your naive bayes classifier models. Alternatively, you can use any other text classification models.  
+1. Run pyGen.py first to generate your naive bayes classifier models for all 4 different classes. It will generate few scores which will give the training data size and the features used while training the model.
 
-1. run pyPredict(use your own Twitter keys) and enter the username you want to predict.  
+1. Run pyPredict(use your own Twitter keys) and enter the username you want to predict.   
+
 
 ## Types of Personalities :
 
-In Myer's Briggs calssification we have 16 types of personality which can be categorized as :<br />
+In Myer's Briggs Type indicator Classification we have 16 types of personality which can be categorized as :<br />
 
 ![Types](https://user-images.githubusercontent.com/33621094/74926796-4ddb5200-538b-11ea-944a-78ad55c3395f.png)
