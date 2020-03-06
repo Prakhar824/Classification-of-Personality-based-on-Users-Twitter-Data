@@ -1,4 +1,4 @@
-# :memo: Twitter-Personalities
+# :memo: Classifying Personality Of A Person Based On His Twitter Data
 
 [![HitCount](http://hits.dwyl.com/priyansh19/https://githubcom/priyansh19/Classification-of-Personality-based-on-Users-Twitter-Data.svg)](http://hits.dwyl.com/priyansh19/https://githubcom/priyansh19/Classification-of-Personality-based-on-Users-Twitter-Data)
 ![Eclipse Marketplace](https://img.shields.io/eclipse-marketplace/l/notepad4e)
