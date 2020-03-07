@@ -1,0 +1,20 @@
+Libraries required to run code:
+
+pandas 
+pickle
+numpy
+sklearn
+nltk
+tweepy
+unidecode
+
+
+After installing these libraries you have to open the python console and run the following commands:
+
+import nltk
+nltk.download("stopwords")
+nltk.download("punkt")
+
+
+Kudos, you will be able to run the code successfully now.
+
